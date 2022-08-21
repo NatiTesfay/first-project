@@ -7,8 +7,8 @@ const Header = ()=>{
     return(
         <div>
         <div class="header">
-        <h2>Folio Project</h2>
-        <p>Scroll down to see the Projects</p>
+        <h2>Netanel Tesfay</h2>
+        <p>Wellcome to my website <br/>here yo can see all my projects</p>
         </div>
 
         <div id="navbar">
