@@ -4,13 +4,10 @@ const Footer = ()=>{
     return(
         <div>
         <div class="footer">
-        <div id="navbar">
-        <a class="active" href="">Github</a>
-        <a href="active">Linkden</a>
-        <a href="active">Contact</a>
+        <p className='links'>Github</p>
+        <p className='links' >linkden</p>
+        <p className='links' >Email</p>
         </div>
-        </div>
-
         </div>
     )
 }
