@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+}
+
+h2{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+p{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
